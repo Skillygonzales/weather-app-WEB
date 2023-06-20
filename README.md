@@ -8,4 +8,5 @@ git clone https://github.com/Skillygonzales/weather-app-WEB.git
 
 ```
 - Install the packages using the command `npm install`
+- Start the local server to test the functionalities using `npm start`
 
