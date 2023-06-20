@@ -4,7 +4,8 @@ This repository is used to organize and build our WEB project that we have done 
 - Clone the repository:
 
 ```bash
-git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
+git clone https://github.com/Skillygonzales/weather-app-WEB.git
 
 ```
+- Install the packages using the command `npm install`
 
