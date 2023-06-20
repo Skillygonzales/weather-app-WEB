@@ -178,7 +178,7 @@ function App() {
     <Container
       sx={{
         maxWidth: { xs: '95%', sm: '80%', md: '1100px' },
-        width: '50%',
+        width: '100%',
         height: '100%',
         margin: '0 auto',
         padding: '1rem 0 3rem',
@@ -262,7 +262,7 @@ function App() {
     </Container>
     <Container
        sx={{
-        width: '80%',
+        width: '70%',
         height: 'auto',
         margin: '0 auto',
         padding: '1rem 0 3rem',
