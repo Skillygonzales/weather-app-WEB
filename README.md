@@ -3,6 +3,8 @@ This repository is used to organize and build our WEB project that we have done 
 
 ## Instructions:
 
+- Make sure you already have `Node.js` and `npm` installed in your system.
+
 - Clone the repository:
 
 ```bash
